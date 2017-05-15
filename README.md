@@ -1,2 +1,2 @@
 # JavaFX
-JavaFX project
+Custom game menu
